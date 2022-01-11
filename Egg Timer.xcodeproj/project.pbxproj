@@ -15,6 +15,7 @@
 		949925A4278D9E3E0022CA7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 949925A2278D9E3E0022CA7E /* LaunchScreen.storyboard */; };
 		949925AF278D9E3E0022CA7E /* Egg_TimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949925AE278D9E3E0022CA7E /* Egg_TimerTests.swift */; };
 		949925BA278D9E3E0022CA7E /* Egg_TimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949925B9278D9E3E0022CA7E /* Egg_TimerUITests.swift */; };
+		949925C8278D9F8D0022CA7E /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 949925C7278D9F8D0022CA7E /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		949925B5278D9E3E0022CA7E /* Egg TimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Egg TimerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		949925B9278D9E3E0022CA7E /* Egg_TimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Egg_TimerUITests.swift; sourceTree = "<group>"; };
 		949925BB278D9E3E0022CA7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		949925C7278D9F8D0022CA7E /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				9499259B278D9E3B0022CA7E /* ViewController.swift */,
 				9499259D278D9E3B0022CA7E /* Main.storyboard */,
 				949925A0278D9E3E0022CA7E /* Assets.xcassets */,
+				949925C7278D9F8D0022CA7E /* alarm_sound.mp3 */,
 				949925A2278D9E3E0022CA7E /* LaunchScreen.storyboard */,
 				949925A5278D9E3E0022CA7E /* Info.plist */,
 			);
@@ -233,6 +236,7 @@
 			files = (
 				949925A4278D9E3E0022CA7E /* LaunchScreen.storyboard in Resources */,
 				949925A1278D9E3E0022CA7E /* Assets.xcassets in Resources */,
+				949925C8278D9F8D0022CA7E /* alarm_sound.mp3 in Resources */,
 				9499259F278D9E3B0022CA7E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
